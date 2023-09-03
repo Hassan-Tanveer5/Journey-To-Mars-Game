@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(171,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(292,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(296,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(298,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(305,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(314,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(316,10): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(324,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(339,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(340,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(342,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(354,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(358,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(367,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(368,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(370,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML project.vcxproj -> C:\Users\haris\source\repos\SFML project\Debug\SFML project.exe

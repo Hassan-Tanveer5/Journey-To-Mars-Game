@@ -1,0 +1,52 @@
+﻿  main.cpp
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(379,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(470,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(478,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1041,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1078,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1161,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1268,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1269,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1271,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1343,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1346,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1379,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1382,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1464,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(259,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(258): message : while compiling class template member function 'list<sf::Text>::~list(void)'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1003): message : see reference to function template instantiation 'list<sf::Text>::~list(void)' being compiled
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(962): message : see reference to class template instantiation 'list<sf::Text>' being compiled
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(204,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(203): message : while compiling class template member function 't &list<t>::operator [](int)'
+          with
+          [
+              t=sf::Text
+          ]
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1074): message : see reference to function template instantiation 't &list<t>::operator [](int)' being compiled
+          with
+          [
+              t=sf::Text
+          ]
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(236,25): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(235): message : while compiling class template member function 'void list<genericEnemy>::remove(int)'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1087): message : see reference to function template instantiation 'void list<genericEnemy>::remove(int)' being compiled
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(175,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(172): message : while compiling class template member function 'void list<sf::Text>::expand(void)'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(230): message : see reference to function template instantiation 'void list<sf::Text>::expand(void)' being compiled
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(166,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(165): message : while compiling class template member function 'void list<sf::Text>::initialize(unsigned int)'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(189): message : see reference to function template instantiation 'void list<sf::Text>::initialize(unsigned int)' being compiled
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(196,2): warning C4018: '<': signed/unsigned mismatch
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(191): message : while compiling class template member function 'list<weapon>::list(const list<weapon> &)'
+C:\Users\haris\source\repos\SFML project\SFML project\main.cpp(1531): message : see reference to function template instantiation 'list<weapon>::list(const list<weapon> &)' being compiled
+  Generating code
+  14 of 346 functions ( 4.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    40 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML project.vcxproj -> C:\Users\haris\source\repos\SFML project\Release\SFML project.exe
